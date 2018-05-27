@@ -5,3 +5,10 @@ java -jar target/customerrestservice-0.0.1-SNAPSHOT.jar
 
 Now that the service is up, visit http://localhost:8080/
 
+API Contract Definition can be accessed here: 
+
+http://localhost:8080/v2/api-docs
+
+and visualised here:
+
+http://localhost:8080/swagger-ui.html#/
